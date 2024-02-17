@@ -1,0 +1,15 @@
+{
+  "name": "webscrapper_practice",
+  "version": "1.0.0",
+  "description": "app to scrape website for embedded links",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "akshun",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
